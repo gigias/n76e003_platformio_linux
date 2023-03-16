@@ -1,4 +1,4 @@
-# n76e003_platformio
+# n76e003_platformio_linux
  Nuvoton MCUs (N76E003) example project with PlatformIO
 
 
