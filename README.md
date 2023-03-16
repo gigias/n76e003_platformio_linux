@@ -4,7 +4,7 @@
 
 ## Introduction
 This project is a fork of [arduino12/n76e003_platformio](https://github.com/arduino12/n76e003_platformio) which was meant for windows.
-Here we sue [PlatformIO](https://platformio.org/) to compile with the free [SDCC](http://sdcc.sourceforge.net), and upload with [Nuvoprog](https://github.com/erincandescent/nuvoprog)!
+Here we use [PlatformIO](https://platformio.org/) to compile with the free [SDCC](http://sdcc.sourceforge.net), and upload with [Nuvoprog](https://github.com/erincandescent/nuvoprog)!
 
 ## Features
 * Fully free, no code size limit and open source thanks to SDCC + PlatformIO.
