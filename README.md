@@ -21,8 +21,8 @@ Here we use [PlatformIO](https://platformio.org/) to compile with the free [SDCC
 * Install [PlatformIO](https://platformio.org/platformio-ide) to manage the building and upload.
 * Install GO from your Linux distribution repository.
 * Install [Nuvoprog](https://github.com/erincandescent/nuvoprog) to upload.
-* Clone this [repo](https://github.com/gigias/n76e003_platformio_linux), there is an exmple program (LED Blinking on P15 pin). 
-* Now, you can compile and upload with code and upload it via PlatformIO-upload command.
+* Clone this [repo](https://github.com/gigias/n76e003_platformio_linux), main.c is an example program (LED Blinking on P15 pin). 
+* Now, you can compile and upload with code and upload it via PlatformIO-upload command:
    
    pio run -e N76E003 -t upload 
 
