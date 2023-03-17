@@ -8,7 +8,7 @@ void main(void){
     P15_Quasi_Mode;
     while(1){
              P15 = 0;
-             sw_delay(150);
+             sw_delay(100);
              P15 = 1;
              sw_delay(100);              
   }
